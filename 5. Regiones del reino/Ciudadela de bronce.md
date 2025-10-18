@@ -1,0 +1,2 @@
+Civilización más tecnológicamente avanzada del reino, ubicada directamente encima del Núcleo del reino. No es dominada por una raza en específico, sino que es manejada por las mentes más brillantes del reino y ocupada por trabajadores, estudiantes y guerreros de todo tamaño y forma.
+Se han perdido los registros de la creación de la ciudadela y sus fundadores originales, pero se cree que es casi tan antigua como el propio [[núcleo del reino]].
