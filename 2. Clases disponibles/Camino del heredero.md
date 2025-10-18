@@ -1,0 +1,1 @@
+Nacen con un vínculo natural e inquebrantable con la magia del núcleo, obteniendo poderes difíciles de controlar. No estudian la magia, sino que esta fluye a través de su sangre, lo que puede ser tanto un don como una condena.
