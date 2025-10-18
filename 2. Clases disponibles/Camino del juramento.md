@@ -1,0 +1,1 @@
+Heraldos que han decidido dar su vida a un ideal, monarca o ser superior para guiar, proteger, redimir o destruir. Al hacer su juramento, sus palabras se entrelazan con la magia del mundo, otorgándoles poderes sobrenaturales.

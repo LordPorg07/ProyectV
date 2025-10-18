@@ -1,0 +1,1 @@
+Los eruditos buscan el conocimiento por encima de todo, estudiando la magia y registrando cada uno de sus conocimientos. Muchos han dedicado su vida a descifrar el origen de la magia del núcleo en la academia, algunas veces siendo consumidos por el saber.
