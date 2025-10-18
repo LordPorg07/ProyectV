@@ -1,0 +1,2 @@
+Los que siguen este camino son criaturas que dejan que la conciencia ceda ante la pureza del instinto al entrar en batalla. Su fuerza nace de un pulso primitivo que vibra bajo la cáscara de todos los seres.  
+En combate, se tornan salvajes y resplandecen con la furia de la vida sin forma, tan pura como peligrosa.
