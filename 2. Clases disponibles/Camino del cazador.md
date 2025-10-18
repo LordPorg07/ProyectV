@@ -1,0 +1,1 @@
+Los cazadores son exploradores, guardianes y acechadores que se sirven de su conocimiento del entorno para garantizar su supervivencia. Tienen una gran conexión con la naturaleza y una fascinación natural por la búsqueda de presas difíciles.
