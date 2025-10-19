@@ -2,7 +2,7 @@
 
 Descripción:
 
-Las moscas son criaturas curiosas, altamente creativas y naturalmente mágicas en el reino. Provienen del valle del [[Río reminiscente]] y el [[Bosque fosilizado]], pero actualmente se encuentran establecidos en la [[Ciudadela de bronce]], siendo de los inventores e investigadores más valorados por su talento. 
+Las moscas son criaturas curiosas, altamente creativas y naturalmente mágicas en el reino. Provienen del valle del [[Río reminiscente (tbc)]] y el [[Bosque fosilizado (tbc)]], pero actualmente se encuentran establecidos en la [[Ciudadela de bronce]], siendo de los inventores e investigadores más valorados por su talento. 
 
 Características de la especie:
 
