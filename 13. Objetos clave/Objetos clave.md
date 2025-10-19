@@ -1,0 +1,1 @@
+Aquí se guardará el registro de objetos clave que sean necesarios para el progreso de la historia o misiones.

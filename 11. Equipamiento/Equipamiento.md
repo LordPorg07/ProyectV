@@ -1,0 +1,1 @@
+Aquí se llevará el registro del equipamiento que los personajes vayan consiguiendo y la información que se tenga al respecto.

@@ -1,0 +1,1 @@
+Aquí se registrarán los objetos mágicos obtenidos por los personajes y la información que se tenga al respecto.
