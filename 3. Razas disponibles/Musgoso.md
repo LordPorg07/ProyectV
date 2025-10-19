@@ -2,7 +2,7 @@
 
 Descripción:
 
-Las musgosos son una tribu nacida de un dios durmiente. Son criaturas pequeñas, sigilosas y muy unidas entre ellas. Viven en el [[Pantano brumoso]] en paz con las hormigas tejedoras, pues comparten la unión con la naturaleza. Suelen salir a explorar zonas lejanas y a buscar aventuras para regresar con historias al pueblo.
+Las musgosos son una tribu nacida de un dios durmiente. Son criaturas pequeñas, sigilosas y muy unidas entre ellas. Viven en el [[Pantano brumoso (tbc)]] en paz con las hormigas tejedoras, pues comparten la unión con la naturaleza. Suelen salir a explorar zonas lejanas y a buscar aventuras para regresar con historias al pueblo.
 
 Características de la especie:
 

@@ -2,7 +2,7 @@
 
 Descripción:
 
-Criaturas blancas nacidas de la magia del núcleo en el [[Círculo exterior]], obteniendo consciencia, inteligencia y talentos característicos. Los argénidos son ambiciosos y suelen seguir a dioses creadores de otras especies para obtener su favor. 
+Criaturas blancas nacidas de la magia del núcleo en el [[Círculo exterior (tbc)]], obteniendo consciencia, inteligencia y talentos característicos. Los argénidos son ambiciosos y suelen seguir a dioses creadores de otras especies para obtener su favor. 
 
 Características de la especie:
 
