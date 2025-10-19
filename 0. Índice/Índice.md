@@ -7,12 +7,13 @@ También se incluirá el Lore del mundo y el contexto de cada región del juego.
 - [[Reglas básicas]]
 - [[Clases disponibles]]
 - [[Razas disponibles]]
-- Historia del reino
-- Regiones del reino
-- Resúmenes de sesiones
-- NPCS conocidos
-- Misiones activas
-- Objetos mágicos
-- Objetos consumibles
-- Equipamiento
-- Armas
+- [[Historia del reino (tbc)]]
+- [[Regiones del reino]]
+- [[Resúmenes de sesiones]]
+- [[NPCs conocidos]]
+- [[Misiones activas]]
+- [[Objetos mágicos]]
+- [[Objetos consumibles]]
+- [[Equipamiento]]
+- [[Armas]]
+- [[Objetos clave]]
