@@ -1,6 +1,6 @@
 Para la creación de un personaje, es necesario que llenes una ficha de personaje en la que llenarás la información de tu personaje con su raza, clase, origen, puntos de habilidad y alineamiento, así como otros datos adicionales.
 
-En el manual de DnD 5E (que pueden revisar yendo a https://drive.google.com/file/d/1c4S59FMGx1FRlhg1GELxCkiDzc3v8zrp/view) está toda la información detallada de cada una de estas cosas, sin embargo, pueden ir revisando los resúmenes contextualizados en [[Clases disponibles]] y [[Razas disponibles]].
+En el manual de DnD 5E (que pueden revisar yendo a https://drive.google.com/file/d/1c4S59FMGx1FRlhg1GELxCkiDzc3v8zrp/view) está toda la información detallada de cada una de estas cosas, sin embargo, pueden ir revisando los resúmenes contextualizados en [[- Clases disponibles]] y [[- Razas disponibles]].
 
 Respecto al origen, existen 16 orígenes básicos en DnD 5E. Estos son:
 
