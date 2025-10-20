@@ -1,1 +1,0 @@
-Aquí se llevará el registro de armas que los personajes vayan consiguiendo y la información que se tenga al respecto.

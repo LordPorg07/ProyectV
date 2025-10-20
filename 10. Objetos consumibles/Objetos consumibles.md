@@ -1,1 +1,0 @@
-Aquí se registrarán los objetos consumibles que encuentren los jugadores, su información obtenida y usos.
