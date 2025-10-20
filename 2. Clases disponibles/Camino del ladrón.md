@@ -1,1 +1,0 @@
-Aquellos que siguen el camino del ladrón se esconden entre las sombras del reino, sobreviviendo gracias a su ingenio, agilidad y carisma. No todos roban por codicia, sino que algunos lo hacer por necesidad o incluso como una forma de arte. 
