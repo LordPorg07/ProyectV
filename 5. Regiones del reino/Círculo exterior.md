@@ -1,0 +1,3 @@
+Región más externa del reino y hogar del [[Argénido]] y la avispa. La dócil magia de esta región se manifestó en raíces que tomaron una colmena vacía de las avispas y la utilizó como crisálida para dar vida a su creación: los argénidos. 
+Las avispas respetan a los argénidos más que a cualquier otra criatura del reino, ya que consideran que, al haber nacido de una de sus colmenas, son parecidos a ellas.
+Actualmente, la colmena avispa suspendida por las raíces es la aldea de los argénidos, que viven en paz con las avispas, compartiendo la región.

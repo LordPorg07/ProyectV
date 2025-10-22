@@ -1,0 +1,2 @@
+Un bosque de roca y hueso en el que habitan la [[Mosca]], la [[mariposa]] silvestre y la [[Hormiga]] tortuga. Es una región en la que se suelen recolectar materiales de construcción para otras civilizaciones por la calidad de los materiales y sus buenas características para la construcción. Las hormigas suelen controlar la recolección de estos materiales para que no se altere el ecosistema.
+Se dice que antes de ser así, era un bosque lleno de vida, pero fue transformado por capricho del [[Núcleo del reino]].

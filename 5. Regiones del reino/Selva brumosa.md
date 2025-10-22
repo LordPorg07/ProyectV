@@ -1,0 +1,1 @@
+Hogar de la [[Hormiga]] tejedora y el curioso [[Musgoso]]. Es una región llena de vegetación y altos árboles, pero también de criaturas salvajes y peligrosas. Es una de las zonas preferidas de los cazadores del reino por las majestuosas criaturas que pueden ser encontradas.

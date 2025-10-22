@@ -1,0 +1,2 @@
+Más allá de la superficie se encuentra la cordillera resonante, un conjunto de montañas en la que es posible escuchar el orden y la calma. Es hogar de la [[Hormiga]] saltarina y suele ser un lugar al que se acude para entrar en la meditación más profunda, siendo la región favorita de los seguidores del [[Camino de la serenidad]].
+Es un terreno de difícil acceso, pero muchas veces se encuentran guías, tanto hormigas como de otras especies que están dispuestos a llevar a los viajeros a las zonas más importantes, como el dojo sereno.

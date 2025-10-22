@@ -1,0 +1,2 @@
+Gran río que cruza la mitad del reino. Por sus aguas fluye magia que dice estar relacionada a la memoria y los recuerdos. Está rodeada de un valle en el que distintas especies conviven tranquilas, protegiendo el río, sus historias y creencias. 
+De aquí proviene la [[Mosca]]y la [[Mariposa]] silvestre.

@@ -1,0 +1,3 @@
+Región más alejada del reino, lugar de origen del [[Cucarachón]], que ha dominado la región entera y ha levantado su civilización. Actualmente, esta región se encuentra en constante guerra con las avispas, causando muerte, caos, dolor y destrucción para ambos bandos.
+Se cree que, mucho tiempo atrás, los cucarachones robaron un artefacto sagrado de las avispas, un arma legendaria creada por la primera gran matriarca. Desde entonces, las avispas luchan incansablemente con los cucarachones en estas tierras, esperando recuperar aquello que les pertenece.
+Los cucarachones se limitan a resistir el ataque, esperando al momento ideal para contraatacar y terminar con la guerra.
