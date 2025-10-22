@@ -1,0 +1,4 @@
+No existe una sola teoría sobre el surgimiento del [[Núcleo del reino]]. Algunos creen que existe desde el inicio de los tiempos, mientras que otros creen que un día simplemente apareció. Lo que es claro es que el núcleo une a todas las regiones del reino y las alimenta de magia, brindando características sobrenaturales tanto al terreno como a sus habitantes. 
+La [[Ciudadela de bronce]] se edificó directamente encima del núcleo del reino, lo que permite que se aproveche su poder de forma más directa. No se sabe quiénes fundaron la ciudadela ni cómo crearon la maquinaria que aprovecha la energía del núcleo. Los eruditos de la academia, más que preguntarse quién lo hizo y cómo, buscan formas cada vez más eficientes de aprovechar la energía, para así llevar a cabo proyectos complicados que permitan el avance tecnológico y la defensa del reino.
+
+la ciudadela es el 
