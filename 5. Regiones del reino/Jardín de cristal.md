@@ -1,2 +1,2 @@
 Jardín sagrado del que provienen la [[Libélula]]. Se cree que tiene una conexión más cercana con los dioses, por lo que algunos afines al [[Camino del seguidor]] peregrinaban a esta región.
-Debido a algunos rituales llevados a cabo por criaturas desconocidas, surgió una gran rosa de cristal, que llenó el jardín de espinas, complicando la entrada y salida de la mayoría de insectos.
+Debido a algunos rituales llevados a cabo por seguidores de un dios olvidado, surgió una gran rosa de cristal, que llenó el jardín de espinas, complicando la entrada y salida de la mayoría de insectos.
