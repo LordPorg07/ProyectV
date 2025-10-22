@@ -1,0 +1,2 @@
+Región dominada por la [[Hormiga]] espinosa. Debería ser una región de paso entre la [[Ciudadela de bronce]], las [[Arenas ardientes]], el [[Valle Azul]] y la [[Cordillera resonante]], pero bajo el dominio de las hormigas, se ha convertido en un campo de batalla constante, donde ninguno es bienvenido.
+Muchas de las civilizaciones del reino buscan la destrucción de esta subespecie de hormigas, por el bien del reino.
