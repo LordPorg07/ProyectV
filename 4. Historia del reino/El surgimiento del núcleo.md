@@ -1,0 +1,11 @@
+No existe una sola teoría sobre el surgimiento del [[Núcleo del reino]]. Algunos sostienen que existía desde el inicio del tiempo, un pulso primordial que latía en el vacío, llamando a la forma y a la vida. Otros afirman que apareció una noche, como una estrella caída que se hundió en la tierra y comenzó a irradiar magia hacia todas las direcciones, dando origen a los valles, las montañas y las criaturas del mundo.
+
+Lo único cierto es que el Núcleo une a todas las regiones del reino y las alimenta de magia, dotando a cada territorio de rasgos únicos y a sus habitantes de dones sobrenaturales. Muchos creen que su energía es el mismo aliento de los dioses; otros, más escépticos, lo describen como una herida en la realidad, una fractura por donde se filtra algo que el mundo no debería contener.
+
+Con el paso de los siglos, las razas del reino comenzaron a sentir su influencia. Donde el Núcleo brillaba con mayor intensidad, la tierra se volvía fértil, los ríos cantaban, y el aire vibraba con poder. Fue allí donde surgió la [[Ciudadela de bronce]], edificada directamente sobre el punto donde la magia fluye con más fuerza. Nadie sabe quiénes la construyeron. Las leyendas hablan de civilización desaparecida que hablaba el lenguaje de la magia y la dominó para permitir la creación de la primera maquinaria arcana.
+
+Sus nombres se perdieron, pero su obra permanece: una ciudad de torres metálicas, pasajes internos, movida por la vida y la magia y ahora hogar de todo tipo de criaturas, todas hijas de la magia del núcleo.
+
+Los eruditos de la academia ya no buscan una respuesta a quién construyó la ciudadela ni con qué propósito. Su obsesión actual es mejorar la eficiencia con la que el Núcleo puede ser aprovechado, aunque sus experimentos suelen tener efectos imprevisibles. Algunos susurran que el Núcleo está vivo, y que cada vez que la Ciudadela lo fuerza más allá de su límite, responde con más violencia.
+
+La ciudadela continúa expandiendo sus proyectos: torres más altas, máquinas más ambiciosas, y un deseo casi divino de alcanzar lo imposible. Para muchos, la Ciudadela es símbolo de progreso; para otros, una blasfemia que se alza sobre lo que debería permanecer sagrado.
