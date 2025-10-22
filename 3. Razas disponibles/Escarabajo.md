@@ -2,7 +2,7 @@
 
 Descripción:
 
-Los escarabajos son insectos de dura coraza originarios de los [[Túneles de obsidiana (tbc)]]. Son naturalmente hábiles para la forja y resuenan con la piedra y el metal por su origen. Son muy longevos y viven muy unidos en la comodidad de la mina.
+Los escarabajos son insectos de dura coraza originarios de los [[Túneles de obsidiana]]. Son naturalmente hábiles para la forja y resuenan con la piedra y el metal por su origen. Son muy longevos y viven muy unidos en la comodidad de la mina.
 
 Características de la especie:
 

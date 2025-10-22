@@ -13,7 +13,7 @@ Las mariposas son una raza de insectos creada directamente por los dioses y espa
 	- Mariposa silvestre:
 		- Variedad de mariposas descendientes de un gran dios durmiente. Esparcidas en distintas regiones y en constante movimiento.
 	- Polilla:
-		- Subespecie creada por el dios de los sueños. Relacionada por naturaleza a la luz y a la oscuridad. Se suelen encontrar entre el [[Bosque fosilizado (tbc)]] y el valle del [[Río reminiscente (tbc)]].
+		- Subespecie creada por el dios de los sueños. Relacionada por naturaleza a la luz y a la oscuridad. Se suelen encontrar entre el [[Bosque fosilizado]] y el valle del [[Río reminiscente]].
 
 - Visión nocturna:
 	Obtienes visión nocturna a un rango de 60 pts.

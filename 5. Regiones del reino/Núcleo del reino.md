@@ -1,2 +1,3 @@
 La fuente de la magia al centro del reino. la magia se filtra a través de sus paredes y alimenta a cada una de las regiones de una forma distintiva, dando características especiales a la materia vegetal, mineral y a los seres vivos.
 Es estudiado desde la academia para conocer el origen de la magia, pero aún no hay resultados concluyentes.
+El núcleo es protegido por un domo metálico externo que previene posibles fugas de energía. Este domo fue creado por los habitantes de la [[Ciudadela de bronce]] y solo permite el pase de energía descontrolada hacia la [[Fuga caótica]], manteniendo y absorbiendo niveles estables de energía para el resto del reino.
