@@ -1,0 +1,2 @@
+- El [[profesor prilemo]] pide que atrapen al ladrón del colgante de piedra
+- El [[Señor mosca conserje]] dice que escuchó un aleteo como de polilla en el momento del robo.
