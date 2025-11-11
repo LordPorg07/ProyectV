@@ -1,1 +1,0 @@
-Aquí se guardará la información de los NPCs conocidos por los jugadores y la información que se vaya descubriendo de estos.
