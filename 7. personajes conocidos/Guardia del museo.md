@@ -1,0 +1,1 @@
+Es su primer día como guardia del museo. Un escarabajo robusto y con alta energía.
