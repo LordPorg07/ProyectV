@@ -1,2 +1,4 @@
 - El [[profesor prilemo]] pide que atrapen al ladrón del colgante de piedra
 - El [[Señor mosca conserje]] dice que escuchó un aleteo como de polilla en el momento del robo.
+- El [[vendedor de pociones]] dice que uno de sus clientes fue una polilla con capucha y túnica negra.
+- Uno de los guardias mariposas dice que una polilla con esa descripción salió en camino al hormiguero de las dunas intermedias.
