@@ -1,0 +1,1 @@
+Polilla coleccionista de artefactos de todo tipo, con gran conocimiento de antigüedades.

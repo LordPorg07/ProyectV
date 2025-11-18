@@ -1,0 +1,1 @@
+Mariposa que dirige las subastas en el casino. Tiene un gran ego y está muy molesto con el grupo por haber perdido dinero con la subasta del colgante.
