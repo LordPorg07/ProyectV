@@ -1,2 +1,5 @@
 - El [[Profesor Prilemo]] pide que recuperen un colgante de piedra de características especiales que fue robado a cambio de 60 placas de bronce y su anillo de bodas.
 - Al investigar el lugar donde se hizo el robo, el [[Señor mosca conserje]] les indica que el artefacto podría ser subastado esa noche en el casino.
+- El grupo gana la subasta del artefacto, obteniendo el colgante de piedra.
+- Se devuelve el colgante al profesor Prilemo y se obtiene la recompensa.
+- Fin de la misión.
