@@ -1,14 +1,14 @@
-**(Características del Dwarf, DnD 5E)
+**(Características del Dwarf, DnD 5E)**
 
 ---
 
-**Descripción:
+**Descripción:**
 
 Los escarabajos son insectos de dura coraza originarios de los [[Túneles de obsidiana]]. Son naturalmente hábiles para la forja y resuenan con la piedra y el metal por su origen. Son muy longevos y viven muy unidos en la comodidad de la mina.
 
 ---
 
-**Características de la especie:
+**Características de la especie:**
 
 - Tamaño: Mediano -  pequeño
 - Velocidad: 30 pts
