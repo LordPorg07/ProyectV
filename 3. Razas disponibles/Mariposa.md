@@ -1,14 +1,14 @@
-**(Características del Elf, DnD 5E)
+**(Características del Elf, DnD 5E)**
 
 ---
 
-**Descripción:
+**Descripción:**
 
 Las mariposas son una raza de insectos creada directamente por los dioses y esparcida por distintos reinos y regiones, adaptándose a distintos ambientes y condiciones físicas sin perder nunca su atractivo natural. En este reino, la magia les ha otorgado una longevidad envidiable, alcanzando edades que pocos insectos siquiera imaginan. No duermen, sino que entran en trance al descansar, permaneciendo atentos a su entorno mientras se sumergen en memorias pasadas. 
 
 ---
 
-**Características de la especie:
+**Características de la especie:**
 
 - Tamaño: Mediano
 - Velocidad: 30 pts
