@@ -1,10 +1,14 @@
-(Características del Gnome, DnD 5E)
+**(Características del Gnome, DnD 5E)
 
-Descripción:
+---
+
+**Descripción:
 
 Las moscas son criaturas curiosas, altamente creativas y naturalmente mágicas en el reino. Provienen del valle del [[Río reminiscente]] y el [[Bosque fosilizado]], pero actualmente se encuentran establecidos en la [[Ciudadela de bronce]], siendo de los inventores e investigadores más valorados por su talento. 
 
-Características de la especie:
+---
+
+**Características de la especie:
 
 - Tamaño: Pequeño
 - Velocidad: 30 pts
