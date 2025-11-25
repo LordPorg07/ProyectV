@@ -1,14 +1,14 @@
-**(Características del Tiefling, DnD 5E)
+**(Características del Tiefling, DnD 5E)**
 
 ---
 
-**Descripción:
+**Descripción:**
 
 Criaturas de diversas especies que han renacido tras perder la vida mediante poderes sobrenaturales. Estos seres han recuperado sus consciencias originales al beber de las aguas del río reminiscente, pero mantienen características provenientes del renacimiento.
 
 ---
 
-**Características de la especie:
+**Características de la especie:**
 
 - Tamaño: Mmm, depende
 - Velocidad: 30 pts
