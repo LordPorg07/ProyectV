@@ -1,8 +1,14 @@
-(Características del Goliath, DnD 5E)
+**(Características del Goliath, DnD 5E)
 
-Descripción:
+---
+
+**Descripción:
 
 Criaturas veloces, inteligentes, sociales y altamente organizadas que se encuentran esparcidas por todo el reino, adaptándose y obteniendo características especiales de su entorno. 
+
+---
+
+**Características de la especie:
 
 - Tamaño: Mediano
 - Velocidad: 35 pts

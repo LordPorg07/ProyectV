@@ -1,6 +1,8 @@
 Criaturas que han hecho un trato con alguna entidad oscura que les presta su fuerza. Su poder no les pertenece, sino que se trata de una deuda que tendrán que pagar eventualmente de una forma u otra.
 
-Subclases:
+---
+
+**Subclases:
 
 - Patrón caprichoso:
 	Tu patrón es una criatura caótica naturalmente caprichosa que te pide una serie de favores a cambio de su poder.

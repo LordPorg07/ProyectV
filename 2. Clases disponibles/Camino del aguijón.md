@@ -1,6 +1,8 @@
 Destinan su vida al arte del combate, dominando todo tipo de armas, armaduras y herramientas en la batalla. Buscan una mejoría constante en su técnica y mejorar sus habilidades constantemente para cumplir sus objetivos personales, sean estos nobles o no.
 
-Subclases:
+---
+
+**Subclases:
 
 - Maestro de batalla:
 	Estudian el arte de la batalla, aprendiendo distintas técnicas y maniobras en sus peleas, combinando conocimiento con técnica.

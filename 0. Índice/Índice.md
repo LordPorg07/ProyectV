@@ -7,7 +7,7 @@ También se incluirá el Lore del mundo y el contexto de cada región del juego.
 - [[- Reglas básicas]]
 - [[- Clases disponibles]]
 - [[- Razas disponibles]]
-- [[- Historia del reino]]
+- [[- Historia de Archrysalis]]
 - [[- Regiones del reino]]
 - [[- Resúmenes de sesiones]]
 - [[- NPCs conocidos]]

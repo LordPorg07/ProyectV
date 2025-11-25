@@ -1,6 +1,8 @@
 Heraldos que han decidido dar su vida a un ideal, monarca o ser superior para guiar, proteger, redimir o destruir. Al hacer su juramento, sus palabras se entrelazan con la magia del mundo, otorgándoles poderes sobrenaturales.
 
-Subclases:
+---
+
+**Subclases:
 
 - Juramento de devoción:
 	Une a los juramentados a ideales de justicia y orden. Son caballeros de brillante armadura que cuidan su conducta y esperan que el resto haga lo mismo.

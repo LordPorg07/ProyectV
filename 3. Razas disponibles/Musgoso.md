@@ -1,10 +1,14 @@
-(Características del Halfling, DnD 5E)
+**(Características del Halfling, DnD 5E)
 
-Descripción:
+---
+
+**Descripción:
 
 Las musgosos son una tribu nacida de un dios durmiente. Son criaturas pequeñas, sigilosas y muy unidas entre ellas. Viven en la [[Selva brumosa]] en paz con las hormigas tejedoras, pues comparten la unión con la naturaleza. Suelen salir a explorar zonas lejanas y a buscar aventuras para regresar con historias al pueblo.
 
-Características de la especie:
+---
+
+**Características de la especie:
 
 - Tamaño: pequeño
 - Velocidad: 30 pts

@@ -1,6 +1,8 @@
 Los seguidores del camino del eco son los portadores de las memorias del mundo. Sus voces tejen tanto leyendas de héroes como de dioses olvidados, siendo capaces de sanar, inspirar o destruir. No todos sus cantos provienen de sus gargantas, sino que algunos los canalizan a través de instrumentos.
 
-Subclases:
+---
+
+**Subclases:
 
 - Colegio de la danza
 	Las historias no se limitan al lenguaje y la escritura, sino que se pueden transmitir a través del movimiento de las criaturas. Estos personajes entran en harmonía con el universo mediante la agilidad, velocidad y gracia.
