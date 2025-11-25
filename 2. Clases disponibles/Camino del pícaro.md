@@ -1,6 +1,8 @@
 Aquellos que siguen el camino del pícaro se esconden entre las sombras del reino, sobreviviendo gracias a su ingenio, agilidad y carisma. No todos roban o mienten por codicia, sino que algunos lo hacer por necesidad o incluso como una forma de arte. 
 
-Subclases:
+---
+
+**Subclases:
 
 - Embaucador arcano:
 	Mejoran sus habilidades de sigilo y agilidad mediante los hechizos, aprendiendo magia para ayudarlos en sus intercambios, robos o bromas.
