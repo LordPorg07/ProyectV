@@ -2,7 +2,7 @@ Los que siguen el camino de la serenidad buscan el equilibrio entre mente, cuerp
 
 ---
 
-**Subclases:
+**Subclases:**
 
 - Guerrero de la misericordia:
 	Manipulan la energía vital de otros, dando un final rápido a las vidas de sus enemigos o curando a sus aliados.
