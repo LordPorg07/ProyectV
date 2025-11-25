@@ -2,7 +2,7 @@ Nacen con un vínculo natural e inquebrantable con la magia del núcleo, obtenie
 
 ---
 
-**Subclases:
+**Subclases:**
 
 - Hechicería aberrante:
 	Obtienes poder psíquico, siendo capaz de tocar a otros con tu mente y alterar el mundo a tu alrededor.
