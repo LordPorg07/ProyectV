@@ -2,7 +2,7 @@ Heraldos que han decidido dar su vida a un ideal, monarca o ser superior para gu
 
 ---
 
-**Subclases:
+**Subclases:**
 
 - Juramento de devoción:
 	Une a los juramentados a ideales de justicia y orden. Son caballeros de brillante armadura que cuidan su conducta y esperan que el resto haga lo mismo.
