@@ -2,7 +2,7 @@ Aquellos que siguen el camino del pícaro se esconden entre las sombras del rein
 
 ---
 
-**Subclases:
+**Subclases:**
 
 - Embaucador arcano:
 	Mejoran sus habilidades de sigilo y agilidad mediante los hechizos, aprendiendo magia para ayudarlos en sus intercambios, robos o bromas.

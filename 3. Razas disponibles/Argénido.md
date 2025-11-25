@@ -1,14 +1,14 @@
-**(Características del Human, DnD 5E)
+**(Características del Human, DnD 5E)**
 
 ---
 
-**Descripción:
+**Descripción:**
 
 Criaturas blancas nacidas de la magia del núcleo en el [[Círculo exterior]], obteniendo consciencia, inteligencia y talentos característicos. Los argénidos son ambiciosos y suelen seguir a dioses creadores de otras especies para obtener su favor. 
 
 ---
 
-**Características de la especie:
+**Características de la especie:**
 
 - Tamaño: Mediano o pequeño
 - Velocidad: 30 pts

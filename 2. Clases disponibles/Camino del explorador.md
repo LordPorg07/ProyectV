@@ -2,7 +2,7 @@ Los exploradores son cazadores, guardianes y acechadores que se sirven de su con
 
 ---
 
-**Subclases:
+**Subclases:**
 
 - Maestro de las bestias:
 	Forma vínculos místicos con una criatura especial, utilizando magia primigenia para conectarse con el mundo natural.

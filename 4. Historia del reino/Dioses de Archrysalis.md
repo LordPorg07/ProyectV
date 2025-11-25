@@ -1,6 +1,6 @@
 Algunas entidades superiores fueron seducidas por la magia y el poder del [[Núcleo del reino]], por lo que decidieron asentarse en este, esparciendo su influencia y obteniendo seguidores de diversas regiones. Este es el panteón de los Dioses que han hecho de Archrysalis su hogar.
 
-# **Evolmhar — La gloriosa evolución
+# **Evolmhar — La gloriosa evolución**
 
 Se esconde en la [[cuenca azul]], pero su poder e influencia se esparcen dentro y fuera del reino. Sus seguidores creen en el cambio, la renovación y la mutación de la vida, así como la transformación y evolución del mundo.
 
@@ -10,7 +10,7 @@ Se esconde en la [[cuenca azul]], pero su poder e influencia se esparcen dentro 
 
 - Seguidores típicos: Sanadores, alquimistas, renacidos, etc.
 
-# **Khaarn — Señor de la Fuerza
+# **Khaarn — Señor de la Fuerza**
 
 Dirige a los cucarachones desde la bastión central de las [[Tierras del sacrificio]] y cree que la fuerza absoluta es el camino para alcanzar el poder y la gloria. Es hermano Vaelthir, con quien se encuentra en un eterno enfrentamiento. Se cree que [[La gran guerra exterior]] es en realidad obra de estos hermanos.
 
@@ -60,6 +60,6 @@ Se encuentra imperturbable en lo alto de la cordillera resonante, siendo el dest
 
 - Seguidores típicos: Monjes, eruditos, guardianes, etc.  
 
-# **? — ???
+# **? — ???**
 
 Se habla de un Dios antiguo que duerme en lo más profundo del reino y que desapareció junto a los habitantes originales de la ciudadela, pero solo se trata de mitos y rumores.

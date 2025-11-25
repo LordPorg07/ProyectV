@@ -3,7 +3,7 @@ En combate, se tornan salvajes y resplandecen con la furia de la vida sin forma,
 
 ---
 
-**Subclases:
+**Subclases:**
 
 - Camino del berserker:
 	Dirigen su furia principalmente a la violencia. Brillan en el caos absoluto de la batalla y se dejan llevar por completo por la ira para que esta los fortalezca.

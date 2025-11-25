@@ -3,7 +3,7 @@ Son faros en medio del silencio, canales por los que fluye la voluntad divina o 
 
 ---
 
-**Subclases:
+**Subclases:**
 
 - Dominio de la vida:
 	Concentran la energía positiva que permite el sostenimiento de la vida. Son maestros de la curación, usando energía vital para curar a los heridos.

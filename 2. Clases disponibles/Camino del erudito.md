@@ -2,7 +2,7 @@ Los eruditos buscan el conocimiento por encima de todo, estudiando la magia y re
 
 ---
 
-**Subclases:
+**Subclases:**
 
 - Abjurador:
 	Tu estudio de la magia se centra en poderes que buscan bloquear, desvanecer efectos negativos o proteger de estos.
