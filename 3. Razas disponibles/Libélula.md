@@ -1,10 +1,14 @@
-(Características del Dragonborn, DnD 5E)
+**(Características del Dragonborn, DnD 5E)
 
-Descripción:
+---
+
+**Descripción:
 
 Las libélulas son una raza de insectos originaria del [[Jardín de cristal]] y bendecida por los poderes elementales provenientes del [[Núcleo del reino]]. Son muy diversas en cuanto a características y cada una es afín a un elemento específico, definido por su color al nacer.
 
-Características de la especie:
+---
+
+**Características de la especie:
 
 - Tamaño: Mediano
 - Velocidad: 30 pts
