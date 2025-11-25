@@ -1,10 +1,14 @@
-(Características del Orc, DnD 5E)
+**(Características del Orc, DnD 5E)
 
-Descripción:
+---
 
-Seres poderosos, resistentes y devotos del Dios del poder y la fuerza. Son un pueblo guerrero asentado en las [[Tierras del sacrificio]], en guerra con las avispas desde que se tiene registro. Son poco vistos fuera de su zona de origen y suelen ser considerados toscos o poco inteligentes. Aún así, algunos cucarachones buscan experiencias distintas en regiones lejanas, sea para ganar el favor de su dios, para satisfacer sus ganas de aventura o por puro aburrimiento.
+**Descripción:
 
-Características de la especie:
+Seres poderosos, resistentes y devotos de Khaarn, señor de la fuerza y uno de los [[Dioses de Archrysalis]]. Son un pueblo guerrero asentado en las [[Tierras del sacrificio]], en guerra con las avispas desde que se tiene registro. Son poco vistos fuera de su zona de origen y suelen ser considerados toscos o poco inteligentes. Aún así, algunos cucarachones buscan experiencias distintas en regiones lejanas, sea para ganar el favor de su dios, para satisfacer sus ganas de aventura o por puro aburrimiento.
+
+---
+
+**Características de la especie:
 
 - Tamaño: Mediano
 - Velocidad: 30 pts
