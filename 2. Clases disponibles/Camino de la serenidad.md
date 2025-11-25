@@ -1,6 +1,8 @@
 Los que siguen el camino de la serenidad buscan el equilibrio entre mente, cuerpo y alma. Se dedican a la meditación y a la conexión con ellos mismos a través de las artes marciales, muchas veces alejándose de sus pueblos natales para retirarse a la [[Cordillera resonante]] o peregrinando a lugares lejanos en busca de la iluminación. Su poder no viene de un dios o de la magia, sino del silencio.
 
-Subclases:
+---
+
+**Subclases:
 
 - Guerrero de la misericordia:
 	Manipulan la energía vital de otros, dando un final rápido a las vidas de sus enemigos o curando a sus aliados.
