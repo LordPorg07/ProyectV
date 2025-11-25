@@ -2,7 +2,7 @@ Destinan su vida al arte del combate, dominando todo tipo de armas, armaduras y 
 
 ---
 
-**Subclases:
+**Subclases:**
 
 - Maestro de batalla:
 	Estudian el arte de la batalla, aprendiendo distintas técnicas y maniobras en sus peleas, combinando conocimiento con técnica.
