@@ -2,7 +2,7 @@ Los seguidores del camino del eco son los portadores de las memorias del mundo. 
 
 ---
 
-**Subclases:
+**Subclases:**
 
 - Colegio de la danza
 	Las historias no se limitan al lenguaje y la escritura, sino que se pueden transmitir a través del movimiento de las criaturas. Estos personajes entran en harmonía con el universo mediante la agilidad, velocidad y gracia.
