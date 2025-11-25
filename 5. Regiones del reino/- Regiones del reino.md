@@ -6,7 +6,7 @@ Regiones conocidas:
 - [[Ciudadela de bronce]]
 - [[Jardín de cristal]]
 - [[Cavernas gélidas]]
-- [[Valle Azul]]
+- [[Cuenca Azul]]
 - [[Dunas intermedias]]
 - [[Arenas ardientes]]
 - [[Túneles de obsidiana]]
