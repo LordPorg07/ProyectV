@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diario del Aventurero: Archrysalis</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+
+    <header>
+        <h1>Diario del Aventurero</h1>
+    </header>
+
+    <div id="container">
+        <nav id="sidebar">
+            <h2 class="sidebar-title">Índice del Reino</h2>
+            <ul id="nav-list"></ul>
+        </nav>
+
+        <main id="content-area">
+            <section id="default-content">
+                <h2>Diario del Aventurero</h2>
+                <p>Esta es la guía básica para la partida de Dungeons and Dragons basada en Hollow Knight. Usa el menú de la izquierda para iniciar en el índice.</p>
+                <p style="text-align: center; font-size: 1.2em;"><strong>CORRE, VE A LEER.</strong></p>
+                <hr>
+                <p>Selecciona una opción del menú lateral para comenzar.</p>
+            </section>
+        </main>
+    </div>
+
+    <script>
+        // Mapeo de Título de Menú a la Ruta del Archivo Real
+        // NOTA: Asegúrate de que las rutas a tus carpetas sean correctas.
+        const FILE_MAP = {
+            "Reglas básicas": "1. Reglas/- Reglas básicas.md",
+            "Clases disponibles": "2. Clases disponibles/- Clases disponibles.md",
+            "Razas disponibles": "3. Razas disponibles/- Razas disponibles.md",
+            "Historia de Archrysalis": "4. Historia del reino/- Historia de Archrysalis.md",
+            "Regiones del reino": "5. Regiones del reino/- Regiones del reino.md",
+            "Resúmenes de sesiones": "6. Resúmenes de sesiones/- Resúmenes de sesiones.md",
+            "NPCs conocidos": "7. personajes conocidos/- NPCs conocidos.md",
+            "Misiones activas": "8. Misiones activas/- Misiones activas.md",
+            "Objetos mágicos": "9. Objetos mágicos/- Objetos mágicos.md",
+            "Objetos consumibles": "10. Objetos consumibles/- Objetos consumibles.md",
+            "Equipamiento": "11. Equipamiento/- Equipamiento.md",
+            "Armas": "12. Armas/- Armas.md",
+            "Objetos clave": "13. Objetos clave/- Objetos clave.md"
+        };
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            const navList = document.getElementById('nav-list');
+            const mainContent = document.getElementById('content-area');
+
+            // 1. Llenar la barra lateral con enlaces
+            Object.keys(FILE_MAP).forEach(title => {
+                const li = document.createElement('li');
+                const a = document.createElement('a');
+                a.textContent = title;
+                a.href = "#" + encodeURIComponent(title.toLowerCase().replace(/\s/g, '-'));
+                a.onclick = (e) => {
+                    e.preventDefault();
+                    loadContent(title);
+                };
+                li.appendChild(a);
+                navList.appendChild(li);
+            });
+
+            // 2. Función para cargar el contenido (usa fetch para obtener el .md y marked para renderizarlo)
+            function loadContent(title) {
+                const filePath = FILE_MAP[title];
+                
+                mainContent.innerHTML = '<h2>Cargando...</h2>';
+
+                fetch(filePath)
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error('Archivo no encontrado: ' + filePath);
+                        }
+                        return response.text();
+                    })
+                    .then(markdownText => {
+                        // 1. Convertir Markdown a HTML con Marked.js
+                        let htmlContent = marked.parse(markdownText);
+
+                        // 2. Manejar enlaces internos de Obsidian [[...]]
+                        htmlContent = htmlContent.replace(/\[\[([^\]]+)\]\]/g, (match, linkText) => {
+                            const targetTitle = linkText.split('|')[0].trim(); 
+                            const matchingFile = Object.keys(FILE_MAP).find(key => key.includes(targetTitle));
+                            
+                            if (matchingFile) {
+                                // Enlace interno que llama a la función loadContent
+                                return `<a href="#${encodeURIComponent(matchingFile.toLowerCase().replace(/\s/g, '-'))}" onclick="loadContent('${matchingFile}')">${linkText}</a>`;
+                            } else {
+                                // Dejarlo como texto simple si no es un archivo principal
+                                return linkText;
+                            }
+                        });
+
+                        mainContent.innerHTML = htmlContent;
+                    })
+                    .catch(error => {
+                        mainContent.innerHTML = `<h2>Error al cargar "${title}"</h2><p>No se pudo acceder al archivo en la ruta: <code>${filePath}</code>. Asegúrate de que las carpetas y archivos estén en el lugar correcto.</p>`;
+                        console.error('Error cargando el archivo:', error);
+                    });
+            }
+
+            // Hacer que la función loadContent esté disponible globalmente para los enlaces internos
+            window.loadContent = loadContent;
+        });
+    </script>
+</body>
+</html>
