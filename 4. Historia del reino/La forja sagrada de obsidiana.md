@@ -4,6 +4,8 @@ El fuego de la forja arde sin descanso, impulsado por la pasión de todos los ma
 
 Los maestros forjadores de esta región no suelen ser guerreros, sino seguidores y paladines que dedican su vida a los dioses, para que estos tengan un contacto aún más cercano con su trabajo. Por este motivo la forja es considerada un lugar sagrado y los frutos del trabajo son creaciones casi divinas, motivo por las que algunas de las armas forjadas en este lugar obtienen poderes sobrenaturales.
 
+---
+
 # Materiales trabajados en la forja
 
 - **Hielo puro**
@@ -15,12 +17,16 @@ Los maestros forjadores de esta región no suelen ser guerreros, sino seguidores
 - **Latón**
 	- Metal más barato para la creación de armas y armaduras. No el más duradero, pero puede alcanzar su máximo potencial en la forja.
 
+---
+
 # Otros materiales del reino no trabajados
 
 - **Plata colmenar**
 	- Metal plateado muy brillante y trabajado únicamente por las avispas. Son recelosas de este metal porque no creen que ninguna otra especie sea digna de utilizarlo, a menos que sea capaz de probar su valía. Se usa especialmente para la creación de armas de destreza.
 - **Piedra negra**
 	- Variante de la roca que se encuentra únicamente en las tierras del sacrificio. Se cree que esta piedra ha sido tocada por un dios olvidado por los motivos correctos, por lo que se evita usar este material en la forja sagrada por miedo a que su influencia toque sus herramientas y corazas. Es un material principalmente trabajado por los cucarachones.
+
+---
 
 # El fuego se apaga
 
