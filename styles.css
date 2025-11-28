@@ -1,0 +1,152 @@
+/* Estilos Base y Reseteo */
+:root {
+    --color-bg-dark: #1c2128; /* Fondo muy oscuro, casi negro */
+    --color-main-text: #f0f0f0; /* Texto principal claro */
+    --color-accent-bronze: #8b4513; /* Tono bronce para acentos */
+    --color-sidebar-bg: #29313a; /* Fondo de sidebar ligeramente más claro */
+    --color-link: #d4af37; /* Color dorado/bronce para enlaces */
+    --font-primary: 'Georgia', serif;
+}
+
+body {
+    font-family: var(--font-primary);
+    background-color: var(--color-bg-dark);
+    color: var(--color-main-text);
+    margin: 0;
+    line-height: 1.6;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* Cabecera */
+header {
+    background-color: var(--color-sidebar-bg);
+    padding: 20px 0;
+    text-align: center;
+    border-bottom: 2px solid var(--color-accent-bronze);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+header h1 {
+    margin: 0;
+    color: var(--color-link);
+    font-size: 2.5em;
+    text-shadow: 1px 1px 2px #000;
+}
+
+/* Contenedor Principal (Sidebar y Contenido) */
+#container {
+    display: flex;
+    flex: 1; /* Permite que ocupe el espacio restante */
+}
+
+/* Sidebar de Navegación */
+#sidebar {
+    width: 250px;
+    background-color: var(--color-sidebar-bg);
+    padding: 20px;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.5);
+    position: sticky;
+    top: 80px; /* Debajo de la cabecera */
+    align-self: flex-start; /* Se pega a la parte superior */
+    height: calc(100vh - 80px); /* Ajusta la altura */
+    overflow-y: auto; /* Permite hacer scroll en el menú si es largo */
+}
+
+.sidebar-title {
+    color: var(--color-link);
+    border-bottom: 1px solid var(--color-accent-bronze);
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+#nav-list {
+    list-style: none;
+    padding: 0;
+}
+
+#nav-list li {
+    margin-bottom: 5px;
+}
+
+#nav-list a {
+    display: block;
+    padding: 8px 10px;
+    text-decoration: none;
+    color: var(--color-main-text);
+    transition: background-color 0.2s, color 0.2s;
+    border-radius: 3px;
+}
+
+#nav-list a:hover {
+    background-color: var(--color-accent-bronze);
+    color: var(--color-bg-dark);
+}
+
+/* Área de Contenido Principal */
+#content-area {
+    flex: 1;
+    padding: 30px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Estilos para el Contenido (simulando Markdown) */
+#content-area h2 {
+    color: var(--color-link);
+    border-bottom: 2px solid var(--color-accent-bronze);
+    padding-bottom: 10px;
+    margin-top: 30px;
+}
+
+#content-area h3 {
+    color: var(--color-accent-bronze);
+    margin-top: 20px;
+}
+
+#content-area p {
+    margin-bottom: 15px;
+}
+
+#content-area ul {
+    list-style: disc;
+    margin-left: 20px;
+}
+
+#content-area a {
+    color: var(--color-link);
+    text-decoration: none;
+}
+
+#content-area a:hover {
+    text-decoration: underline;
+}
+
+/* Estilos para las citas (opcional pero recomendado) */
+[data-citation] {
+    font-size: 0.8em;
+    color: rgba(255, 255, 255, 0.5);
+    margin-left: 5px;
+}
+
+/* Responsividad para pantallas pequeñas */
+@media (max-width: 768px) {
+    #container {
+        flex-direction: column;
+    }
+
+    #sidebar {
+        width: 100%;
+        position: static;
+        height: auto;
+        overflow-y: visible;
+        border-bottom: 2px solid var(--color-accent-bronze);
+    }
+
+    #content-area {
+        padding: 20px;
+    }
+}
