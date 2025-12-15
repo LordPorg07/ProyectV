@@ -1,4 +1,4 @@
-
+ 
 El [[Profesor Prilemo]] pide ayuda a Lunin y a Arthur, estudiantes de su clase de evocación en la academia, para que le ayuden a [[Recuperar un artefacto robado]] y [[Atrapar al culpable]] a cambio de 60 placas de bronce y su anillo de bodas. Se trata de un colgante de piedra de "vibraciones extrañas, si sabes a lo que me refiero".
 A las afueras, el profesor Prilemo encuentra a Gnaeus, una hormiga del desierto de brillante armadura, y decide darle la ubicación de su oficina para que se encuentre con sus alumnos y que hagan el trabajo juntos.
 Gnaeus es recibido con una pedrada mágica en la cabeza por parte de Arthur, apoyado por Lunin por miedo a la presencia extraña y grande del primero. Luego de presentarse y explicar sus motivos, deciden ir juntos al lugar del crimen, en el que encuentran el expositor vacío del colgante de piedra.
